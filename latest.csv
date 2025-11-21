@@ -5,22 +5,15 @@ Week End,2025-11-23,
 WEEKLY BOTTLES ACTIVITY,,
 Public Bottles Verified,23,
 ,,
-PUBLIC RELEASES ANALYSIS,,
-Total Public Releases (with Assets),1812,
-Releases with Pricing,1280,70.64%
-Releases without Pricing,532,
-Releases with Both Assets & Pricing,1280,70.64%
+MARKETPLACE RELEASES ANALYSIS,,
+Total Marketplace Releases,1812,
+Marketplace Releases with Pricing,1280,70.64%
+Marketplace Releases without Pricing,532,
+Marketplace Releases with Complete Data,1280,70.64%
+Marketplace Releases (Assets Only),532,
 Assets with Pricing (KEY METRIC),70.64%,1280 of 1812 assets have pricing
-Releases with Assets Only,532,
-Releases with Pricing Only,0,
-Releases with Neither,0,
 ,,
-ASSET STATISTICS,,
-Total Assets,10169,
-Public Assets,5320,52.32%
-Private Assets,4849,
-,,
-Generated At,2025-11-21 14:43:29,
+Generated At,2025-11-21 14:53:18,
 ,,
 BOTTLES VERIFIED THIS WEEK,,
 Name,Class ID,Verified Date
