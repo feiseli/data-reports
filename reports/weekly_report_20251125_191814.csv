@@ -1,0 +1,50 @@
+Metric,Value,Details
+Week Start,2025-11-24,
+Week End,2025-11-30,
+,,
+WEEKLY BOTTLES ACTIVITY,,
+Public Bottles Verified,1,
+,,
+MARKETPLACE RELEASES ANALYSIS,,
+Total Marketplace Releases,1816,
+Marketplace Releases with Pricing,1287,70.87%
+Marketplace Releases without Pricing,529,
+Marketplace Releases with Complete Data,1287,70.87%
+Marketplace Releases (Assets Only),529,
+Assets with Pricing (KEY METRIC),70.87%,1287 of 1816 assets have pricing
+,,
+Generated At,2025-11-25 19:18:14,
+,,
+TOP UNPRICED MARKETPLACE RELEASES,,
+Name,Class ID,Popularity,Asset URL
+Gentleman Jack,1388,1605,https://baxus.co/asset/53kzrLpo9HGCvSHyC6jxTcpoPepHb8Rw2pC99JgRvomN
+Penelope Bourbon Rio Batch 4,103022,131,https://baxus.co/asset/38ms6ekiuwud1EZjpF2LjDa9xEEwjYg585UW7WXd3SyC
+Hard Truth Double Oaked Sweet Mash Rye,48692,93,https://baxus.co/asset/6JeEpzKduNqyaCEC5wKxA9uMMx8JFCuRcnByYELqQYD
+Bulleit Barrel Strength Batch 7,24836,67,https://baxus.co/asset/2GoxpeZZQ6o5bt8yBpT8ZZpCyz1Wgn76wUNHCw2Zu8H7
+Jack Daniel's Tennessee Fire 1 Liter,4731,58,https://baxus.co/asset/9FAqBvStH9bsdw7rbD3QXym34yoAW1j2CgHuCtV3fPrv
+Cream of Kentucky 12.3 Year Bourbon,28295,24,https://baxus.co/asset/EjM3U1mWp5fK4MMTeZvmpNgZKgwniJeKDehUWbFYo6cP
+Nelson’s Green Brier Cask Strength,29025,21,https://baxus.co/asset/8zYWMM3Qwq1kJW4obRLCmVTeXruu9gjHRm7iohFbpLWs
+Invergordon 1987 31 Year Single Cask #88721 The Distinctive Spirits Co,36416,16,https://baxus.co/asset/2izr94cWF3SYspMLNzJ49yaudiNGgexV9HESrnxCzHBS
+ASW Fiddler Georgia Heartwood National Champions Release,25590,16,https://baxus.co/asset/2qTJ5frtncHv1F4HUbW69HGYPmbfF6cDPkTbTXTUjjRU
+Jack Daniel's Tennessee Rye 375ml,2194,16,https://baxus.co/asset/7oU4sJ8xdFiikJqWbrU2moAJ936niQauCzExZNyDsn2z
+Bunnahabhain 25 Year,3367,15,https://baxus.co/asset/Eqg7Gcritiu5sXYXULGD8y5UB31KfHmN5ZtW1gXgN27f
+Cats Eye Obtainium Cask Strength 28 Year For Baxus,36341,14,https://baxus.co/asset/72u1L9aGFV8ErprpsSE2kB7BG3Rfb54YH5Fk6raGVsfD
+,,
+TOP STALE PRICING MARKETPLACE RELEASES,,
+Name,Class ID,Popularity,Last Priced,Asset URL
+W.L. Weller 12 Year Pre-2016 Squat Bottle,17204,614,2024-11-24,https://baxus.co/asset/7o3BhoX5FVDnzXCcsKCqY377wQpRi5zpBVjhMasCgCw3
+Four Roses Barrel Strength OBSK Single Barrel,37456,132,2024-10-27,https://baxus.co/asset/4XBhSm41PqSDxXbpNhoVVHxU6ztBvuPUvaRQEPEQ9uiW
+J.P. Wiser’s 18 Year ,2580,84,2024-10-01,https://baxus.co/asset/7JQv5SpRxsRBoLDcyENaDcNoxYDpJdXoF5eBLz6agoY2
+WhistlePig 6 Year Piggyback Single Barrel Aged in Oath Gin Barrels,44839,80,2024-11-01,https://baxus.co/asset/DKZ1LnESjNQJnvV8wNq6X9inmARYwPTqdeypoT9qwwYD
+Heaven Hill 6 Year Bottled in Bond,36006,72,2024-04-01,https://baxus.co/asset/FMiKFSSqj44gXcoRf4hR42McMgiEU3LaH3T4yhSHCEvo
+Jameson Gold Reserve,4265,71,2023-07-01,https://baxus.co/asset/E7aaxoNecFbAorXuG1L1v6QmXfjcd9wUX6WYcJyztuDn
+Lexington 96 Proof,4008,66,2023-10-31,
+Laphroaig 15 Year,1295,63,2023-08-07,https://baxus.co/asset/3J4veFxP4WoKx8HEBCUW7Azy2eo2ohrZBYH26r7p1o6S
+Blanton's Gold 2021 Bottling 700ml,37031,61,2024-09-01,https://baxus.co/asset/2LsB2QuMkJnBVTXcF74oert2aC4tWqm6v6aPhc6Nmkd2
+Parker's Heritage Blend of Mashbills,1436,61,2023-10-31,
+Blanton's Straight From the Barrel 2021 Bottling,37345,55,2024-05-30,https://baxus.co/asset/8DeoTyDPNEwtMzJHQBuXu54Wfo4uN3kRVnKi3qgFqfC1
+"Rare Hare ""1953"" 17 Year",18507,52,2023-07-01,https://baxus.co/asset/AH7mbBBnTDpF3G5jn8pvwJqQVrzYuXmqAYWAWd7SYLHV
+,,
+BOTTLES VERIFIED THIS WEEK,,
+Name,Class ID,Verified Date
+Maker’s Mark U.S. Army Edition,162640,2025-11-24 10:28:48
