@@ -1,36 +1,39 @@
 Metric,Value,Details
-Week Start,2025-11-24,
-Week End,2025-11-30,
+Week Start,2025-12-01,
+Week End,2025-12-07,
 ,,
 WEEKLY BOTTLES ACTIVITY,,
-Public Bottles Verified,1,
+Public Bottles Verified,4,
 ,,
 MARKETPLACE RELEASES ANALYSIS,,
-Total Marketplace Releases,1816,
-Marketplace Releases with Current Pricing,1018,56.06%
-Marketplace Releases with Stale Pricing,269,14.81%
-Marketplace Releases without Pricing,529,
-Marketplace Releases with Complete Data,1287,70.87%
-Marketplace Releases (Assets Only),529,
-Assets with Pricing (KEY METRIC),70.87%,1287 of 1816 assets have pricing
+Total Marketplace Releases,1846,
+Marketplace Releases with Current Pricing,1009,54.66%
+Marketplace Releases with Stale Pricing,294,15.93%
+Marketplace Releases without Pricing,543,
+Marketplace Releases with Complete Data,1303,70.59%
+Marketplace Releases (Assets Only),543,
+Assets with Pricing (KEY METRIC),70.59%,1303 of 1846 assets have pricing
 ,,
-Generated At,2025-11-25 19:28:16,
+Generated At,2025-12-08 18:23:50,
 ,,
 TOP UNPRICED MARKETPLACE RELEASES,,
 Name,Class ID,Popularity,Asset URL
-Gentleman Jack,1388,1605,https://baxus.co/asset/53kzrLpo9HGCvSHyC6jxTcpoPepHb8Rw2pC99JgRvomN
-Penelope Bourbon Rio Batch 4,103022,131,https://baxus.co/asset/38ms6ekiuwud1EZjpF2LjDa9xEEwjYg585UW7WXd3SyC
-Hard Truth Double Oaked Sweet Mash Rye,48692,93,https://baxus.co/asset/6JeEpzKduNqyaCEC5wKxA9uMMx8JFCuRcnByYELqQYD
-Bulleit Barrel Strength Batch 7,24836,67,https://baxus.co/asset/2GoxpeZZQ6o5bt8yBpT8ZZpCyz1Wgn76wUNHCw2Zu8H7
+Gentleman Jack,1388,1617,https://baxus.co/asset/53kzrLpo9HGCvSHyC6jxTcpoPepHb8Rw2pC99JgRvomN
+Pure Kentucky Small Batch XO Bourbon,3581,664,https://baxus.co/asset/GdF61hRshTLqPVj25PjZPReUC45fYMZ26kYZhXqdvKyX
+Little Book Chapter 1: The Easy,17447,265,https://baxus.co/asset/E7Tp31j6iXNekqNMVnmcnQuAc5Rd2w38BoeG55aqCxyC
+Hard Truth Double Oaked Sweet Mash Rye,48692,98,https://baxus.co/asset/6JeEpzKduNqyaCEC5wKxA9uMMx8JFCuRcnByYELqQYD
+WhistlePig Farmstock Rye Crop 2,2322,94,https://baxus.co/asset/2dvSmZRxDM3FTLJNBcTgfHDpcZZ47BeKnUH2BAUcqkWH
 Jack Daniel's Tennessee Fire 1 Liter,4731,58,https://baxus.co/asset/9FAqBvStH9bsdw7rbD3QXym34yoAW1j2CgHuCtV3fPrv
-Cream of Kentucky 12.3 Year Bourbon,28295,24,https://baxus.co/asset/EjM3U1mWp5fK4MMTeZvmpNgZKgwniJeKDehUWbFYo6cP
-Nelson’s Green Brier Cask Strength,29025,21,https://baxus.co/asset/8zYWMM3Qwq1kJW4obRLCmVTeXruu9gjHRm7iohFbpLWs
-Invergordon 1987 31 Year Single Cask #88721 The Distinctive Spirits Co,36416,16,https://baxus.co/asset/2izr94cWF3SYspMLNzJ49yaudiNGgexV9HESrnxCzHBS
-ASW Fiddler Georgia Heartwood National Champions Release,25590,16,https://baxus.co/asset/2qTJ5frtncHv1F4HUbW69HGYPmbfF6cDPkTbTXTUjjRU
+E.H. Taylor Distiller’s Council,108313,44,https://baxus.co/asset/9x1B1T2NTuCjhpAhy4tqzpczKt1onn8J32upva76W7Pd
+Laphroaig Elements L2.0,43693,18,https://baxus.co/asset/FDYA5DnLEgGNQFcFPhZsN1nqZvTWjk5CjinnhZkSFFW3
 Jack Daniel's Tennessee Rye 375ml,2194,16,https://baxus.co/asset/7oU4sJ8xdFiikJqWbrU2moAJ936niQauCzExZNyDsn2z
-Bunnahabhain 25 Year,3367,15,https://baxus.co/asset/Eqg7Gcritiu5sXYXULGD8y5UB31KfHmN5ZtW1gXgN27f
-Cats Eye Obtainium Cask Strength 28 Year For Baxus,36341,14,https://baxus.co/asset/72u1L9aGFV8ErprpsSE2kB7BG3Rfb54YH5Fk6raGVsfD
+ASW Fiddler Georgia Heartwood National Champions Release,25590,16,https://baxus.co/asset/2qTJ5frtncHv1F4HUbW69HGYPmbfF6cDPkTbTXTUjjRU
+Bunnahabhain 25 Year,3367,16,https://baxus.co/asset/Eqg7Gcritiu5sXYXULGD8y5UB31KfHmN5ZtW1gXgN27f
+Invergordon 1987 31 Year Single Cask #88721 The Distinctive Spirits Co,36416,15,https://baxus.co/asset/2izr94cWF3SYspMLNzJ49yaudiNGgexV9HESrnxCzHBS
 ,,
 BOTTLES VERIFIED THIS WEEK,,
 Name,Class ID,Verified Date
-Maker’s Mark U.S. Army Edition,162640,2025-11-24 10:28:48
+WhistlePig Farmstock Rye Crop 1,164269,2025-12-04 00:15:54
+Knob Creek 2009 Cask Strength Rye,164264,2025-12-04 00:04:05
+High West A Midwinter Nights Dram Act 3 Scene 3,164263,2025-12-04 00:02:27
+Chartreuse La Tau 2018 Release,164196,2025-12-03 01:48:15
