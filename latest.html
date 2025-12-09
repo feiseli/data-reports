@@ -141,11 +141,17 @@
                 </div>
                 
                 <div class="metric-card">
+                    <h3>Bar Events This Week</h3>
+                    <div class="metric-value">8843</div>
+                    <div class="metric-detail">Total rows in bar table during the week</div>
+                </div>
+                
+                <div class="metric-card">
                     <h3>Marketplace Releases Overview</h3>
-                    <div class="metric-value">1846</div>
+                    <div class="metric-value">1850</div>
                     <div class="metric-detail">Total Marketplace Releases</div>
                     <div class="metric-detail">
-                        With Pricing: <span class="status-warning">1303 (70.59%)</span>
+                        With Pricing: <span class="status-warning">1303 (70.43%)</span>
                     </div>
                 </div>
                 
@@ -159,20 +165,39 @@
                             <div class="chart-legend">
                                 <div class="legend-item">
                                     <span class="legend-color" style="background-color: #28a745;"></span>
-                                    <span>Current Pricing: 1009 (54.66%)</span>
+                                    <span>Current Pricing: 1007 (54.43%)</span>
                                 </div>
                                 <div class="legend-item">
                                     <span class="legend-color" style="background-color: #ff8c00;"></span>
-                                    <span>Stale Pricing: 294 (15.93%)</span>
+                                    <span>Stale Pricing: 296 (16.0%)</span>
                                 </div>
                                 <div class="legend-item">
                                     <span class="legend-color" style="background-color: #dc3545;"></span>
-                                    <span>No Pricing: 543</span>
+                                    <span>No Pricing: 547</span>
                                 </div>
                             </div>
                             <div class="metric-detail" style="margin-top: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
                                 <strong>🔑 KEY METRIC</strong><br>
-                                <span style="font-size: 1.2em; color: #667eea;">Assets with Pricing: 70.59%</span>
+                                <span style="font-size: 1.2em; color: #667eea;">Assets with Pricing: 70.43%</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Weekly Bar Activity Chart -->
+            <div style="margin-top: 30px;">
+                <h2 style="color: #333; border-bottom: 2px solid #667eea; padding-bottom: 10px;">Bar Activity This Week</h2>
+                <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
+                    <div style="flex: 1; min-width: 280px;">
+                        <canvas id="barActivityChart" width="400" height="220"></canvas>
+                    </div>
+                    <div style="flex: 1; min-width: 260px;">
+                        <div class="metric-card" style="border-left-color: #667eea;">
+                            <h3>Summary</h3>
+                            <div class="metric-detail">Total bar rows this week: <strong>8843</strong></div>
+                            <div class="metric-detail" style="margin-top: 10px; font-size: 0.9em;">
+                                This chart shows how many bar rows were created on each day of the reporting week (Monday–Sunday).
                             </div>
                         </div>
                     </div>
@@ -454,7 +479,7 @@
         </div>
         
         <div class="footer">
-            <p>Report generated on 2025-12-08 18:23:50</p>
+            <p>Report generated on 2025-12-09 17:42:04</p>
         </div>
     </div>
     
@@ -466,7 +491,7 @@
             data: {
                 labels: ['Current Pricing', 'Stale Pricing', 'No Pricing'],
                 datasets: [{
-                    data: [1009, 294, 543],
+                    data: [1007, 296, 547],
                     backgroundColor: ['#28a745', '#ff8c00', '#dc3545'],
                     borderWidth: 2,
                     borderColor: '#fff'
@@ -482,10 +507,36 @@
                     tooltip: {
                         callbacks: {
                             label: function(context) {
-                                const total = 1846;
+                                const total = 1850;
                                 const percentage = ((context.parsed / total) * 100).toFixed(1);
                                 return context.label + ': ' + context.parsed + ' (' + percentage + '%)';
                             }
+                        }
+                    }
+                }
+            }
+        });
+        
+        // Create bar chart for weekly bar activity (Monday-Sunday)
+        const barCtx = document.getElementById('barActivityChart').getContext('2d');
+        new Chart(barCtx, {
+            type: 'bar',
+            data: {
+                labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+                datasets: [{
+                    label: 'Bar rows created',
+                    data: [1439, 919, 1025, 918, 1407, 1478, 1657],
+                    backgroundColor: '#667eea'
+                }]
+            },
+            options: {
+                responsive: false,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            precision: 0
                         }
                     }
                 }
